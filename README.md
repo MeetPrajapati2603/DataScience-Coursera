@@ -1,0 +1,1 @@
+This repository contains the python files created in Jupyter and they were made during the practice of Data Science basics in python. There are commments in the code if you are not getting any line of code.
